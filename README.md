@@ -2,6 +2,6 @@
 INITIATION TO GIT &amp; GITHUB
 
 
-gh auth login
-gh auth status
-gh repo create
+1- gh auth login
+2- gh auth status
+3- gh repo create
